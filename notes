@@ -1,0 +1,19 @@
+npm i express mongoose : install express ana mongoose : depandance production 
+npm i --save-dev nodemon 
+
+npm i --save-dev dotenv  : package bch tmchy l .env
+
+nodemon server.js // run server
+
+
+steps :
+create server with express
+variable d'envirenemnt fil pts .env tsob e dotenv
+connect DB
+n7athro les models b schema w mongoose
+Create route : post/get ect..
+npm i concurrently
+
+npm i axios redux react-redux react-router-dom
+
+redux, react-redux : state management
