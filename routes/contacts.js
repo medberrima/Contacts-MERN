@@ -3,17 +3,6 @@ const router = express.Router()  ;
 const Contact = require('../models/Contact');
 const controllers = require("../controllers/contact.conrollers");
 
-//test routing
-// router.get('/', (req, res) => 
-//   res.send('Hello World!')
-// )
-
-//post contact
-//get all contacts
-//get contact by id
-//delete contact by id
-//update contact by id
-
 
 //---- documentation swagger ----
 
